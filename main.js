@@ -22,8 +22,8 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Night Owl",
-    artist: "Broke For Free",
+    name: "Do Naina",
+    artist: "Preeti Pillai",
     image: "image99.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song99.mp3"
   },

@@ -22,10 +22,10 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Do Naina",
-    artist: "Preeti Pillai",
-    image: "image99.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "song99.mp3"
+    name: "Kadumthudi",
+    artist: "Jassie Gift, Chorus",
+    image: "image98.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "song98.mp3"
   },
 ];
 

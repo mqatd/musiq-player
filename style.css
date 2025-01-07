@@ -35,11 +35,11 @@ body {
 }
 
 .track-name {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 
 .track-artist {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 
 .buttons {

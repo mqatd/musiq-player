@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "we dont talk anymore X endaro mahanubhavulu",
     artist: "various",
-    image: "image98.jepg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image98.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song98.mp3"
   },
 ];

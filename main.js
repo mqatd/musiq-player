@@ -22,7 +22,7 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "we dont talk anymore X endaro mahanubhavulu",
+    name: "we dont talk anymore X endaro mahanu",
     artist: "various",
     image: "image98.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song98.mp3"

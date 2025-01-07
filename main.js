@@ -22,9 +22,9 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Kadumthudi",
-    artist: "Jassie Gift, Chorus",
-    image: "image98.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    name: "we dont talk anymore X endaro mahanubhavulu",
+    artist: "various",
+    image: "image98.jepg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "song98.mp3"
   },
 ];

@@ -25,7 +25,7 @@ let track_list = [
     name: "Kaanakannil",
     artist: "various",
     image: "image98.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "song97.mp3"
+    path: "song 97.mp3"
   },
 ];
 

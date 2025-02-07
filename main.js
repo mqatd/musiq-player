@@ -22,10 +22,10 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Oru Rathri Koodi(5.1 DTS)",
+    name: "Come Lets Fall In Love Theme",
     artist: "various",
     image: "image98.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.catbox.moe/dzai8u.flac"
+    path: "song99.MP3"
   },
 ];
 

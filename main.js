@@ -22,10 +22,10 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Come Lets Fall In Love Theme",
+    name: "Qalbee(Shane Nigam)",
     artist: "various",
     image: "image98.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "song99.mp3"
+    path: "qalbee.mp3"
   },
 ];
 

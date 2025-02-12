@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "Qalbee(Shane Nigam)",
     artist: "various",
-    image: "image98.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "qalbee.mp3"
   },
 ];

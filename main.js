@@ -27,6 +27,32 @@ let track_list = [
     image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "qalbee.mp3"
   },
+  {
+    name: "Orbit",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/2wq806.mp3 "
+  },{
+    name: "Rebirth",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/pcqsve.mp3"
+  },{
+    name: "Kasavinal",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/x1s0cz.mp3"
+  },{
+    name: "Yaanam",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/7v41i5.mp3"
+  },{
+    name: "Mulchedi",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/pp8s19.mp3"
+  },
 ];
 
 function random_bg_color() {

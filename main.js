@@ -53,6 +53,39 @@ let track_list = [
     image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/pp8s19.mp3"
   },
+
+  {
+    name: "Ee Raavum",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/cqkshs.mp3"
+  },{
+    name: "Kandu Ravithalil",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/oywxfl.mp3"
+  },{
+    name: "Neerpalunku Mizhi",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/5d4ojz.mp3"
+  },{
+    name: "ZAARA",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/j1ra03.mp3"
+  },{
+    name: "Panimathiye",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/tse96n.mp3"
+  },{
+    name: "Tune Jo Na Kaha",
+    artist: "various",
+    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/ivvndy.mp3"
+  },
+  
 ];
 
 function random_bg_color() {

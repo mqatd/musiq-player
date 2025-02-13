@@ -21,12 +21,8 @@ let curr_track = document.createElement('audio');
 
 // Define the tracks that have to be played
 let track_list = [
-  {
-    name: "Qalbee(Shane Nigam)",
-    artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "qalbee.mp3"
-  },
+  
+
   {
     name: "Orbit",
     artist: "various",

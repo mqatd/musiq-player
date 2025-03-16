@@ -23,8 +23,12 @@ let curr_track = document.createElement('audio');
 let track_list = [
   
 
-  {
-    name: "Orbit",
+  { name:"Vijanasurabhi",
+    artist: "Ramya Nambeessan"
+    image:"aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path:vijana.mp3
+}, {
+      name: "Orbit",
     artist: "various",
     image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/2wq806.mp3 "

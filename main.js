@@ -26,7 +26,7 @@ let track_list = [
   { name:"Vijanasurabhi",
     artist: "Ramya Nambeessan",
     image:"aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-path:"vijana.mp3"
+path:"https://files.catbox.moe/1uj7cs.dts"
 }, {
       name: "Orbit",
     artist: "various",

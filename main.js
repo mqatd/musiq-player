@@ -28,18 +28,6 @@ let track_list = [
 path:"https://files.catbox.moe/cqc6b1.mp3"
 },
 
-
-
-
-
-  { name:"Vijanasurabhi",
-    artist: "Ramya Nambeessan",
-    image:"aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-path:"https://files.catbox.moe/1uj7cs.dts"
-},
-
-
-
  {
       name: "Orbit",
     artist: "various",

@@ -22,12 +22,25 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   
+{ name:"Neer Palunkin - Vegam",
+    artist: "various",
+    image:"aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path:"https://files.catbox.moe/cqc6b1.mp3"
+},
+
+
+
+
 
   { name:"Vijanasurabhi",
     artist: "Ramya Nambeessan",
     image:"aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
 path:"https://files.catbox.moe/1uj7cs.dts"
-}, {
+},
+
+
+
+ {
       name: "Orbit",
     artist: "various",
     image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
@@ -191,5 +204,4 @@ function seekUpdate() {
     total_duration.textContent = durationMinutes + ":" + durationSeconds;
   }
 }
-
 

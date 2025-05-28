@@ -21,69 +21,105 @@ let curr_track = document.createElement('audio');
 
 // Define the tracks that have to be played
 let track_list = [
-  
-{ name:"Neer Palunkin - Vegam",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+      name: "Kaattuvannu Chaare",
     artist: "various",
-    image:"aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/w8bcic.mp3 "
+  },
+
+
+{ 
+name:"Neer Palunkin - Vegam",
+    artist: "various",
+    image:"image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
 path:"https://files.catbox.moe/cqc6b1.mp3"
 },
+
+
+ {
+      name: "Kaattuvannu Chaare",
+    artist: "various",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/w8bcic.mp3 "
+  },
+
 
  {
       name: "Orbit",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/2wq806.mp3 "
-  },{
+  },
+
+
+
+{
     name: "Rebirth",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/pcqsve.mp3"
   },{
     name: "Kasavinal",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/x1s0cz.mp3"
   },{
     name: "Yaanam",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/7v41i5.mp3"
   },{
     name: "Mulchedi",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/pp8s19.mp3"
   },
 
   {
     name: "Ee Raavum",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/cqkshs.mp3"
   },{
     name: "Kandu Ravithalil",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/oywxfl.mp3"
   },{
     name: "Neerpalunku Mizhi",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/5d4ojz.mp3"
   },{
     name: "ZAARA",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/j1ra03.mp3"
   },{
     name: "Panimathiye",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/tse96n.mp3"
   },{
     name: "Tune Jo Na Kaha",
     artist: "various",
-    image: "aurora-borealis-3478.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.catbox.moe/ivvndy.mp3"
   },
   

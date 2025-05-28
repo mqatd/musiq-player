@@ -51,7 +51,7 @@ let track_list = [
   },
 
 {
-      name: "Penne Penna",
+      name: "Penne Penne",
     artist: "various",
     image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: " https://files.catbox.moe/tubhkx.mp3"

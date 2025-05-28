@@ -31,7 +31,47 @@ let track_list = [
 
 
 
+{
+      name: "Imakal",
+    artist: "various",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/v7j8wb.mp3"
+  },
+{
+      name: "Pranayamanithu",
+    artist: "various",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/j98mpb.mp3"
+  },
 
+{
+      name: "Penne Penna",
+    artist: "various",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: " https://files.catbox.moe/tubhkx.mp3"
+  },
+
+{
+      name: "Aalum Thee",
+    artist: "various",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/0spbl7.mp3 "
+  },
+
+{
+      name: "Maaran",
+    artist: "various",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: " https://files.catbox.moe/3cbik1.mp3"
+  },
+
+{
+      name: "Vennilavin Thaliralle",
+    artist: "various",
+    image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://files.catbox.moe/0v2fzg.mp3 "
+  },
+      
 
 
 

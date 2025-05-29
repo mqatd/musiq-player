@@ -62,7 +62,7 @@ let track_list = [
   name: "Zita's Lullaby",
   artist: "various",
   image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-  path: "https://files.catbox.moe/29mco4.mp3"
+  path: "https://files.catbox.moe/5eucle.mp3"
 }, 
 
 {

@@ -34,6 +34,37 @@ let track_list = [
     path: " https://files.catbox.moe/tubhkx.mp3"
   },
 
+      {
+  name: "neeyen omal punchiri",
+  artist: "various",
+  image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  path: "https://files.catbox.moe/ce9eq6.mp4"
+},
+{
+  name: "kombil kombil - duet",
+  artist: "various",
+  image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  path: "https://files.catbox.moe/qcn9gv.mp3"
+},
+{
+  name: "La Bouche - Sweet Dreams",
+  artist: "various",
+  image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  path: "https://files.catbox.moe/mvqbd5.m4a"
+},
+{
+  name: "Thazhvaram",
+  artist: "various",
+  image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  path: "https://files.catbox.moe/3mqwrp.mp3"
+},
+{
+  name: "Zita's Lullaby",
+  artist: "various",
+  image: "image.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+  path: "https://files.catbox.moe/29mco4.mp3"
+}, 
+
 {
       name: "Kaattuvannu Chaare",
     artist: "various",
